@@ -1,0 +1,13 @@
+{
+    "name": "hjhgithub/mycomposer",
+    "description": "this is a test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huangjunhui",
+            "email": "663574953@qq.com"
+        }
+    ],
+    "require": {}
+}
